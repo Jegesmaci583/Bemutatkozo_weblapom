@@ -85,10 +85,8 @@ body {
     font-size: 12px;
     font-family: sans-serif;
     background-image: url(kepek/hatter.jpg);
-}
-
-span {
-    color: #2BD6B4;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .kezdolaptart {
@@ -103,10 +101,6 @@ span {
 .kezdolaptart > h2 {
     color: white;
     text-align: center;
-}
-
-.kezdolaptart > img {
-    float: left;
 }
 
 .kezdolaptart > p {
