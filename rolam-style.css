@@ -98,7 +98,7 @@ body {
     padding: 1%;
 }
 
-.kezdolaptart > h2 {
+.kezdolaptart > h3 {
     color: white;
     text-align: center;
     font-size: 25px;
@@ -108,15 +108,12 @@ body {
     font-size: 20px;
     font-family: 'Arial Narrow Bold';
     text-align: left;
+    padding-left: 3%;
 }
 
 .kezdolaptart > img {
-    width: 25%;
+    width: 20%;
     border: 4px solid black;
     border-radius: 30px;
-    float: left;
-}
-
-.minicim {
-    float: left;
+    float: right;
 }
