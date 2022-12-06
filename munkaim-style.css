@@ -108,3 +108,14 @@ body {
     font-family: Cochin;
     text-align: center;
 }
+
+.kezdolaptart > a {
+    font-size: 20px;
+    font-family: Cochin;
+    text-decoration: none;
+    color: rgb(214, 214, 214);
+}
+
+.kezdolaptart > a:hover {
+    color: white;
+}
